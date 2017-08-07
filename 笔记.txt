@@ -1,0 +1,46 @@
+1.html语法
+  1）标记语法
+  2）单标记双标记
+  3）设置属性<p attr="value">
+       title
+       id
+       class
+       style
+  4）注释
+
+4.文本标记：
+    1）特殊字符 * ：需要转义才能显示的字符
+      &lt;  less than
+      &gt;  great than
+      &nbsp; 空格
+      &copy; 版权符
+
+    2）样式文本 * ：有特殊格式的文本标签
+      b 加粗      bold
+      i  倾斜      italic
+      u 下划线  underline
+      s 删除线
+    3）段落文本：p
+    4）分区元素 ☆
+          块级分区div
+          行内分区span
+
+
+     作业：
+     1.模仿baidu
+     2.复习
+     3.预习
+
+
+
+
+    工具使用：
+    1.复制行 shift+cmd+D
+    2.生成复数标签 elem{$}*3+tab
+    3.标签带内容 p{hello}+tab
+
+
+
+
+
+
